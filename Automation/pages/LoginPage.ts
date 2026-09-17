@@ -18,7 +18,7 @@ export class LoginPage {
 
 
   async goto() {
-    await this.page.goto('https://demo.snipeitapp.com/login');
+    await this.page.goto('https://demo.snipeitapp.com/login',{ waitUntil: 'domcontentloaded' });
   }
 
   async login(username: string, password: string) {
