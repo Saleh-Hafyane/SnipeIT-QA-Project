@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/Saleh-Hafyane/SnipeIT-QA-Project/actions/workflows/playwright.yml/badge.svg)](https://github.com/Saleh-Hafyane/SnipeIT-QA-Project/actions/workflows/playwright.yml)
